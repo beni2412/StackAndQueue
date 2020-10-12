@@ -17,6 +17,7 @@ public class StackTest {
 		stack.push(secondNode);
 		stack.push(thirdNode);
 		stack.print();
+		
 
 	}
 }
